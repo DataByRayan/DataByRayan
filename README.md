@@ -51,27 +51,9 @@ My focus is on **Cloud Data Engineering (AWS)**, designing scalable ETL/ELT pipe
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-**Cloud & Big Data** <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Cassandra-128C7E?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+**Cloud & Big Data** <br/><div align="center">
 
 
-**Big Data & Orchestration**
-<br/>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br/>
-<img src="https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS_Glue-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_Athena-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
@@ -80,6 +62,13 @@ My focus is on **Cloud Data Engineering (AWS)**, designing scalable ETL/ELT pipe
 <img src="https://img.shields.io/badge/IaC_(Infrastructure_as_Code)-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 
 </div>
+
+**Big Data & Orchestration**
+<br/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+
+
+
 
 
 
