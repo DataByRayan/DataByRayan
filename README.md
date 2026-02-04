@@ -39,6 +39,10 @@ My focus is on **Cloud Data Engineering (AWS)**, designing scalable ETL/ELT pipe
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Cassandra-128C7E?style=for-the-badge&logo=apache-cassandra&logoColor=white" /> 
+
+**Cloud & Big Data** <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Cassandra-128C7E?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+
 
 **Big Data & Orchestration**
 <br/>
@@ -60,22 +64,15 @@ Currently, I am diving deeper into **Real-time Streaming** and **Advanced Data G
 
 ---
 
+
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center"> <a href="https://github.com/DataByRayan"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=DataByRayan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataByRayan&layout=compact&theme=tokyonight" alt="Top Languages" /> </a> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataByRayan&theme=tokyonight" alt="GitHub Streak" /> </div>
 
-<a href="https://github.com/DataByRayan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataByRayan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataByRayan&layout=compact&theme=tokyonight"/>
-</a>
+--- 
 
-</div>
+### Contact 
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataByRayan&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-
----
+**Rayan Alalyani** 
+Email: `RyyanOly@gmail.com` 
+LinkedIn: https://www.linkedin.com/in/rayan-alalyani/
