@@ -43,3 +43,38 @@ My focus is on **Cloud Data Engineering (AWS)**, designing scalable ETL/ELT pipe
 **Big Data & Orchestration**
 <br/>
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+
+
+
+
+### 🔭 Current Focus & Projects
+
+I recently completed the **Udacity Data Engineering Nanodegree**, where I built:
+
+- 🌪️ **Data Pipelines with Airflow:** Automated & monitored ELT pipelines with custom operators.
+- ☁️ **Cloud Data Warehouse:** Migrated massive datasets from S3 to **Amazon Redshift**.
+- 🏗️ **Data Modeling:** Designed Query-Driven schemas using **Apache Cassandra**.
+- 🛡️ **Data Lakehouse:** Built a privacy-first data lake utilizing **Spark & AWS Glue**.
+
+Currently, I am diving deeper into **Real-time Streaming** and **Advanced Data Governance**.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/rayan411">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayan411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan411&layout=compact&theme=tokyonight"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayan411&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
