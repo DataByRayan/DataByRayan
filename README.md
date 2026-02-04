@@ -39,7 +39,6 @@ My focus is on **Cloud Data Engineering (AWS)**, designing scalable ETL/ELT pipe
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Cassandra-128C7E?style=for-the-badge&logo=apache-cassandra&logoColor=white" /> 
 
 **Cloud & Big Data** <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Cassandra-128C7E?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
 
