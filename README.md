@@ -64,9 +64,9 @@ Currently, I am diving deeper into **Real-time Streaming** and **Advanced Data G
 
 <div align="center">
 
-<a href="https://github.com/rayan411">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayan411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan411&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/DataByRayan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataByRayan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataByRayan&layout=compact&theme=tokyonight"/>
 </a>
 
 </div>
@@ -74,7 +74,7 @@ Currently, I am diving deeper into **Real-time Streaming** and **Advanced Data G
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayan411&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataByRayan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
