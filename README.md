@@ -28,6 +28,17 @@ I am a **Data Engineer** with a strong academic foundation in **Software Enginee
 
 My focus is on **Cloud Data Engineering (AWS)**, designing scalable ETL/ELT pipelines, and optimizing data models for analytics. I leverage engineering best practices—like CI/CD, containerization, and modular coding—to build reliable data infrastructure.
 
+
+---
+
+### 🏆 Certifications 
+
+> **Data Engineering with AWS Nanodegree** | Udacity
+> <br/>
+> *Issued: Feb 2026* • [Show Credential 📜](https://www.udacity.com/certificate/e/bfc42e66-e9ab-11f0-bf90-87569b2336ab)
+> <br/>
+> *Skills:* Data Modeling (Postgres, Cassandra), Cloud Data Warehouses (Redshift), Spark & Data Lakes (Glue, Athena), Airflow.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
